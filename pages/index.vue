@@ -3,7 +3,7 @@
     <div class="hero">
       <div class="hero-content">
         <h1 class="gradient-title">✨欢迎使用QQ1000图床</h1>
-        <p class="subtitle">基于Cloudflare的个人图床新选择</p>
+        <p class="subtitle">全球加速个人图床新选择</p>
         <div class="action-buttons">
           <NuxtLink to="https://anuuu.com/buling-imgbed.html" target="_blank" class="btn primary">即刻开始</NuxtLink>
           <a href="https://github.com/wzs8/buling-imgbed" target="_blank" class="btn secondary">
